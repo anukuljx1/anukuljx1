@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anukul Das
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Diploma in Computer science and technology
+- 👀 I’m interested in ... Data Analysis and Web Development
+- 🌱 I’m currently Working With DRDO as a Data Analytics 
 - 💞️ I’m looking to collaborate on ... Startup Company
 - 📫 How to reach me ... anukuljx1@gmail.com
 
